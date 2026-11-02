@@ -1,0 +1,22 @@
+{
+  "wheel_id": 666,
+  "structure": "umbrella",
+  "slug": "melbourneeastkitchenrenovation-153",
+  "project": "kitchen-renovations-eastern-melbourne-suburb-guide-caedb2440d0e",
+  "parent_t1_ref": "melbourneeastkitchenrenovation-012",
+  "node_role": "buffer",
+  "money_target": "melbourneeastkitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations eastern melbourne suburb guide",
+  "intended_url": "http://kitchen-renovations-eastern-melbourne-suburb-guide-caedb2440d0e.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "51dbf2072d05efb4",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/melbourneeastkitchenrenovation-012/",
+      "anchor": "kitchen renovations eastern melbourne explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
